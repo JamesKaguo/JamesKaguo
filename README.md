@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JamesKaguo
+- 👀 I’m interested in Everything that makes Human life easier
+- 🌱 I’m currently learning GOLANG
+- 💞️ I’m looking to collaborate on Designing systems
+- 📫 How to reach me Email: jameskaguo@live.com
